@@ -1,1 +1,1 @@
-Aspiring Data Scientist | Building skills in Python, SQL, and AI annotation | Electronics & Physics background
+🚀 Aspiring Data Scientist | Python 🐍 | SQL 🗄️ | AI Annotation 🤖 | Electronics & Physics ⚡
