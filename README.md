@@ -57,8 +57,8 @@ Physics + Electronics  →  Python & Math  →  Data Science  →  ML/Deep Learn
 | [edge-ai-roadmap](https://github.com/MrBQuantized/edge-ai-roadmap) | My curated learning map toward Edge AI Engineering |
 | [ai-agents-track](https://github.com/MrBQuantized/ai-agents-track) | LangChain, LangGraph, CrewAI, n8n experiments |
 | [ibm-data-analytics](https://github.com/MrBQuantized/ibm-data-analytics) | IBM Data Analytics projects and exercises |
-| [techcrush-data-science](https://github.com/MrBQuantized/techcrush-data-science) | TechCrush bootcamp work |
-| [techyjaunt-aiml](https://github.com/MrBQuantized/techyjaunt-aiml) | AI/ML learning track |
+| [data-science-techcrush](https://github.com/MrBQuantized/data-science-techcrush) | TechCrush bootcamp work |
+| [ai-ml-techyjaunt](https://github.com/MrBQuantized/ai-ml-techyjaunt) | AI/ML learning track |
 
 ---
 
