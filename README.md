@@ -32,7 +32,7 @@ Physics + Electronics  →  Python & Math  →  Data Science  →  ML/Deep Learn
 |---|---|---|
 | IBM IT Experience | Data Analytics | 🔄 Active |
 | TechCrush Cohort 6 | Data Science | 🔄 Active |
-| TechyJaunt Cohort 2 | AI & Machine Learning | 🔄 Active |
+| TechyJaunt Cohort 8 | AI & Machine Learning | 🔄 Active |
 
 ---
 
