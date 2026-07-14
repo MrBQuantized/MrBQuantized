@@ -101,7 +101,7 @@ What I am actively studying today. Everything else is intentionally queued.
 |---|---|
 | [edge-ai-roadmap](https://github.com/MrBQuantized/edge-ai-roadmap) | My curated learning map toward Edge AI Engineering |
 | [ai-agents-track](https://github.com/MrBQuantized/ai-agents-track) | LangChain, LangGraph, CrewAI, n8n experiments |
-| [ibm-data-analytics](https://github.com/MrBQuantized/ibm-data-analytics) | IBM Data Analytics projects and exercises |
+| [python-foundations](https://github.com/MrBQuantized/python-foundations.git)) | Master Python fundamentals and software engineering. |
 | [data-science-techcrush](https://github.com/MrBQuantized/data-science-techcrush) | TechCrush Cohort 6 — Data Science bootcamp (completed) |
 | [ai-ml-techyjaunt](https://github.com/MrBQuantized/ai-ml-techyjaunt) | TechyJaunt Cohort 8 — AI/ML learning track |
 
