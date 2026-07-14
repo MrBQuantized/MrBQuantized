@@ -56,7 +56,7 @@ What I am actively studying today. Everything else is intentionally queued.
 
 | Program | Focus | Status |
 |---|---|---|
-| IBM IT Experience | Data Analytics | 🔄 Active |
+| IBM IT Experience | Data Analytics | ⏸️ On Hold |
 | TechCrush Cohort 6 | Data Science | ✅ Complete |
 | TechyJaunt Cohort 8 | AI & Machine Learning | 🔄 Active |
 
@@ -101,7 +101,7 @@ What I am actively studying today. Everything else is intentionally queued.
 |---|---|
 | [edge-ai-roadmap](https://github.com/MrBQuantized/edge-ai-roadmap) | My curated learning map toward Edge AI Engineering |
 | [ai-agents-track](https://github.com/MrBQuantized/ai-agents-track) | LangChain, LangGraph, CrewAI, n8n experiments |
-| [python-foundations](https://github.com/MrBQuantized/python-foundations.git)) | Master Python fundamentals and software engineering. |
+| [python-foundations](https://github.com/MrBQuantized/python-foundations.git) | Master Python fundamentals and software engineering. |
 | [data-science-techcrush](https://github.com/MrBQuantized/data-science-techcrush) | TechCrush Cohort 6 — Data Science bootcamp (completed) |
 | [ai-ml-techyjaunt](https://github.com/MrBQuantized/ai-ml-techyjaunt) | TechyJaunt Cohort 8 — AI/ML learning track |
 
