@@ -1,6 +1,6 @@
 # Hi, I'm Onoh Blessing 👋
 
-**Physics | Electronics | Solar PV Design | AI Engineering**
+**Physics | Electronics | AI Engineering**
 
 Physics graduate → Data Science → Machine Learning → AI Engineering → AI Infrastructure → Edge AI
 
