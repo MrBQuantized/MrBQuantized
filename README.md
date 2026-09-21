@@ -169,7 +169,7 @@ The goal is to **build while learning**, rather than waiting until everything is
 | Repository                                                                         | Description                                                                                         |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [AI Engineering](https://github.com/MrBQuantized/ai-engineering)                   | AI Engineering learning and experiments — LLMs, RAG, agents, AI systems, infrastructure and Edge AI |
-| [Machine Learning](https://github.com/MrBQuantized)                                | Machine Learning foundations, experiments and applied projects                                      |
+| [ML/DL](https://github.com/MrBQuantized/ml-labs)                                           | Machine Learning and Deep Learning foundations, experiments and applied projects                    |
 | [Python](https://github.com/MrBQuantized)                                          | Python programming and software engineering foundations                                             |
 | [Edge AI Roadmap](https://github.com/MrBQuantized/edge-ai-roadmap)                 | Learning roadmap toward AI Infrastructure and Edge AI Engineering                                   |
 | [Data Science — TechCrush](https://github.com/MrBQuantized/data-science-techcrush) | TechCrush Cohort 6 — Data Science learning and capstone                                             |
